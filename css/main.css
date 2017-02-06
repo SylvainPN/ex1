@@ -1,0 +1,22 @@
+body{
+	background-color:navy;
+	color:cyan;
+}
+
+h1{
+	color:red;
+	border-bottom:1px dotted brown;
+	font-size:40px;
+}
+h2{
+	font-size:30px;
+	color:orange;
+}
+h3{
+	color:yellow;
+	font-size:20px;
+	margin-top:60px;
+}
+p{
+	color:cyan;
+}
